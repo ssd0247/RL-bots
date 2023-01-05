@@ -9,6 +9,8 @@ This repo is conceived solely for maintaining a set of reinforcement learning ag
 - [`demo/`](./demo/) - directory where different environments are built. This way, one can test multiple bots in multiple environments.
 - [`tests/`](./tests/) - directory for writing code that helps in catching bugs/edge-cases. [TDD](https://en.wikipedia.org/wiki/Test-driven_development) methodology to write code is followed. Write new tests, write code to support those tests, rinse & repeat. 
 - [`bots/`](./bots/) - directory where the reinforcement learning agents will reside. The cool and fun stuff!
+- [`experiments/`](./experiments/) - directory where different comparisons are made to figure out the best(most efficient/optimal/concise) code-snippet/design/model-type etc.
+
 ---
 
 ## REQUIREMENTS
