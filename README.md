@@ -14,3 +14,4 @@ This repo is conceived solely for maintaining a set of reinforcement learning ag
 ## REQUIREMENTS
 
 * Should be as modular and loosely-coupled as possible, with just the purpose of building an agent.
+* Test driven development is preferred way. Though any other good practices are also welcomed.
