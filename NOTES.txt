@@ -1,0 +1,9 @@
+Most of the agents are reflection of my understanding on Reinforcement Learning after :-
+    1. Reading theory from the textbook
+        "Reinforcement Learning - An Introduction" by Richard S. Sutton and Andrew G. Barto
+    2. Reading theory from the textbook
+        "Artifical Intelligence - A Modern Approach" by Stuart Russell and Peter Norvig
+    3. Going through dozens of research papers, blogs, articles that are available online.
+        (stated in references).
+
+References :
